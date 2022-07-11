@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = sebastienbourda@gmail.com
+	name = sebastien bourda
